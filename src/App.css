@@ -1,0 +1,52 @@
+.clr1{
+  background-color: #7ecad0;
+}
+.fcl1{
+  color: #7ecad0;
+}
+.fcl2{
+  color: #fd662c;
+}
+.clr2{
+  background-color: #fd662c;
+}
+.btn-trans,.btn{
+  color: white;
+  font-weight: 600;
+  border-radius: 0px;
+  padding: 1.2% 1.8%;
+}
+.btn-trans:hover{
+  color: white;
+  background-color: #fd662c;
+  font-weight: 600;
+}
+.heading{
+  font-size: 50px;
+  color: white;
+}
+.subheading{
+  font-size: 23px;
+  color: white;
+}
+.main{
+  background-color: #70b3b8;
+  width: 99.2%;
+  min-height: 100vh;
+}
+input,textarea{
+  padding: 7px 10px;
+  border: none;
+  outline: none;
+  margin-top: 10px;
+}
+input:focus,textarea:focus{
+  border: none;
+  outline: none;
+}
+.box{
+  height: 60px;
+  width: 60px;
+  color: white;
+  font-size: 40px;
+}
